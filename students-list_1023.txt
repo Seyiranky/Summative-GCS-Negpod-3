@@ -24,7 +24,11 @@ seyi@mail.com,seyi@mail.com,20
 >>>>>>> b7dc587b78b91b5e6aacf9972e5ccbb576b9e553
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 100,seyi@mail.com,20
+=======
+2454,i.charles@alustudent.com[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[Cc.iheke[C[C[C[C[C[C[C[C[C[C[C[Ce@alustudent.com,32
+>>>>>>> 9fa2caac5513137b800e24085e830cfb4cd5ff1f
 =======
 390,kolapo@mail.com,20
 >>>>>>> 92e6c773f88a329b3968c1a47ec4949dad930669
