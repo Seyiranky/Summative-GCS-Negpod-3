@@ -38,13 +38,6 @@ delete_student() {
 update_student() {
     read -p "Enter student ID to update: " id
     grep -v "^$id," $FILE > temp.txt
-<<<<<<< HEAD
-
-
-
-
-
-=======
     mv temp.txt $FILE
     read -p "Enter new student email: " email
     read -p "Enter new student age: " age
