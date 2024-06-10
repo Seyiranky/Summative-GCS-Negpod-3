@@ -1,1 +1,2 @@
 #this is where we will save the student details
+546,maax@mail.com,78
