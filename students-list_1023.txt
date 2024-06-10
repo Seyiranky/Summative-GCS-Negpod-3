@@ -1,1 +1,2 @@
 #this is where we will save the student details
+202,henry@alustudent.com,18
