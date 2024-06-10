@@ -38,8 +38,30 @@ delete_student() {
 update_student() {
     read -p "Enter student ID to update: " id
     grep -v "^$id," $FILE > temp.txt
+<<<<<<< HEAD
 
 
 
 
 
+=======
+    mv temp.txt $FILE
+    read -p "Enter new student email: " email
+    read -p "Enter new student age: " age
+    echo "$id,$email,$age" >> $FILE
+    echo "Student updated!"
+}
+
+# Main loop
+while true; do
+    show_menu
+    case $choice in
+        1) add_student ;;
+        2) view_students ;;
+        3) delete_student ;;
+        4) update_student ;;
+        5) exit 0 ;;
+        *) echo "Invalid option" ;;
+    esac
+done
+>>>>>>> ca5bdb75d90cf5b039a3080b366637d9c82490b6
