@@ -1,1 +1,3 @@
 #this is where we will save the student details
+427,ngugi@gmail.com,27
+427,james@mail.com,21
