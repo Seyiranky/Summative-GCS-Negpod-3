@@ -1,3 +1,7 @@
 #this is where we will save the student details
+<<<<<<< HEAD
 546,maax@mail.com,78
 334,seade@mail.com,88
+=======
+202,henry@alustudent.com,18
+>>>>>>> 6855c0c040a5fef06a06b619a8c1bb9a46aa562d
