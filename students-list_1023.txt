@@ -1,1 +1,5 @@
 #this is where we will save the student details
+seyi@mail.com,seyi@mail.com,20
+100,seyi@mail.com,20
+100,seyi@mail.com,20
+100,seyi@mail.com,24
