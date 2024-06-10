@@ -22,3 +22,4 @@ seyi@mail.com,seyi@mail.com,20
 202,henry@alustudent.com,18
 >>>>>>> 6855c0c040a5fef06a06b619a8c1bb9a46aa562d
 >>>>>>> b7dc587b78b91b5e6aacf9972e5ccbb576b9e553
+390,kolapo@mail.com,20
