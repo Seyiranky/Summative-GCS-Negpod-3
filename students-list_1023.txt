@@ -1,1 +1,3 @@
 #this is where we will save the student details
+234,c.iheke@alustudent.com,23
+1342,c.iheke@alustudent.com,77
