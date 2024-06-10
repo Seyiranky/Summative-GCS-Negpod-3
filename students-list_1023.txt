@@ -22,4 +22,8 @@ seyi@mail.com,seyi@mail.com,20
 202,henry@alustudent.com,18
 >>>>>>> 6855c0c040a5fef06a06b619a8c1bb9a46aa562d
 >>>>>>> b7dc587b78b91b5e6aacf9972e5ccbb576b9e553
+<<<<<<< HEAD
 100,seyi@mail.com,20
+=======
+56,james@mail.com,27
+>>>>>>> 2e0c91f2dc83e0e8771d7dd6ae3150c8155201bd
