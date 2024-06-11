@@ -1,4 +1,4 @@
-i#!/bin/bash
+#!/bin/bash
 
 FILE="students-list_1023.txt"
 
