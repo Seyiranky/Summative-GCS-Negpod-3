@@ -24,6 +24,9 @@ seyi@mail.com,seyi@mail.com,20
 >>>>>>> b7dc587b78b91b5e6aacf9972e5ccbb576b9e553
 <<<<<<< HEAD
 <<<<<<< HEAD
+109,sissy@mail.com,17
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 100,seyi@mail.com,20
 =======
@@ -32,6 +35,7 @@ seyi@mail.com,seyi@mail.com,20
 =======
 390,kolapo@mail.com,20
 >>>>>>> 92e6c773f88a329b3968c1a47ec4949dad930669
+>>>>>>> fdbbf95fe0c81c59ca4261722342961d4fbcf0e4
 =======
 56,james@mail.com,27
 >>>>>>> 2e0c91f2dc83e0e8771d7dd6ae3150c8155201bd
