@@ -42,3 +42,4 @@ seyi@mail.com,seyi@mail.com,20
 100,seyi@mail.com,20
 123,o.mugisha2@alustudent.com,10
 321,hellohello@alustudent.com,30
+432,nicenice@alustudent.com,99999
