@@ -1,0 +1,42 @@
+#this is where we will save the student details
+<<<<<<< HEAD
+234
+1342
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+546
+334
+=======
+<<<<<<< HEAD
+seyi@mail.com
+100
+100
+100
+=======
+427
+427
+>>>>>>> 6bed1918b07e43b86d80526ab6e152cf8fb3565e
+>>>>>>> b7dc587b78b91b5e6aacf9972e5ccbb576b9e553
+=======
+202
+>>>>>>> 6855c0c040a5fef06a06b619a8c1bb9a46aa562d
+>>>>>>> b7dc587b78b91b5e6aacf9972e5ccbb576b9e553
+<<<<<<< HEAD
+<<<<<<< HEAD
+109
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+100
+=======
+2454
+>>>>>>> 9fa2caac5513137b800e24085e830cfb4cd5ff1f
+=======
+390
+>>>>>>> 92e6c773f88a329b3968c1a47ec4949dad930669
+>>>>>>> fdbbf95fe0c81c59ca4261722342961d4fbcf0e4
+=======
+56
+>>>>>>> 2e0c91f2dc83e0e8771d7dd6ae3150c8155201bd
+100
