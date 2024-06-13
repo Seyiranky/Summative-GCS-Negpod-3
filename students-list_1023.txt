@@ -40,3 +40,4 @@ seyi@mail.com,seyi@mail.com,20
 56,james@mail.com,27
 >>>>>>> 2e0c91f2dc83e0e8771d7dd6ae3150c8155201bd
 100,seyi@mail.com,20
+123,o.mugisha2@alustudent.com,10
