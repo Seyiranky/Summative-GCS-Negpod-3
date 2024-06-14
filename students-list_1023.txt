@@ -45,3 +45,4 @@ seyi@mail.com,seyi@mail.com,20
 432,nicenice@alustudent.com,99999
 123,Timmy@mail.com,73
 189,Kezabeiby@mail[D[D[D[Dgmail,16
+321,wanyama@mail,100
