@@ -41,8 +41,7 @@ seyi@mail.com,seyi@mail.com,20
 >>>>>>> 2e0c91f2dc83e0e8771d7dd6ae3150c8155201bd
 100,seyi@mail.com,20
 123,o.mugisha2@alustudent.com,10
-321,hellohello@alustudent.com,30
 432,nicenice@alustudent.com,99999
 123,Timmy@mail.com,73
 189,Kezabeiby@mail[D[D[D[Dgmail,16
-321,wanyama@mail,100
+321,mzeemnyama@mail,105
